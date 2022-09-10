@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msft48\\INF0990\\atividade\\atividade.csproj",
+      "projectUniqueName": "C:\\Users\\msft48\\ProjetoLevi\\Trabalho1-INF0991\\INF0990\\atividade\\atividade.csproj",
       "projectName": "atividade",
-      "projectPath": "C:\\Users\\msft48\\INF0990\\atividade\\atividade.csproj",
+      "projectPath": "C:\\Users\\msft48\\ProjetoLevi\\Trabalho1-INF0991\\INF0990\\atividade\\atividade.csproj",
       "packagesPath": "C:\\Users\\msft48\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msft48\\INF0990\\atividade\\obj\\",
+      "outputPath": "C:\\Users\\msft48\\ProjetoLevi\\Trabalho1-INF0991\\INF0990\\atividade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msft48\\AppData\\Roaming\\NuGet\\NuGet.Config"

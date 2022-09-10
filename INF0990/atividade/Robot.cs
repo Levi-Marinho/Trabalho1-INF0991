@@ -5,4 +5,16 @@ namespace atividade;
 //isto é, deslocar-se nas quatro direções e coletar as joias. Além disso, implemente um método para imprimir na tela o total de joias armazenadas na sacola e o valor total.
 public class Robot
 {
+    
+        public void Bob()
+    {
+        
+        int Bag = 0;
+        int Bagvalue = 0;
+         
+       Console.WriteLine($"Bag total items: {Bag} | Bag total value: {Bagvalue}") ;
+    }   
+    
 }
+
+

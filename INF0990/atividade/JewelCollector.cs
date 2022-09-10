@@ -4,13 +4,14 @@
 // Para que o usuário possa controlar o robô, os seguintes comandos deverão ser passados através das teclas w, s, a, d, g. 
 //Sendo que a tecla w desloca o robô para o norte, a tecla s desloca para o sul, a tecla a desloca para oeste e a tecla d para leste. Para coletar uma joia, use a tecla g.
 
+namespace atividade;
 
 
 
 
 public class JewelCollector {
 
-  public static void Main() {
+  public void Jewel() {
 
 
 
@@ -49,20 +50,10 @@ public class JewelCollector {
               Console.WriteLine(" pegar");
           }
           
-      } while (running);
-      
-          
-
+      }while (running);
 
 }
-
-
-
-      
-
-  }
-
-
+ }
   
   
 
